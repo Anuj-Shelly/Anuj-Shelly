@@ -24,9 +24,8 @@ That includes funnel analytics (leads → conversion), operational dashboards, C
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [EdTech Enrollment Analytics](https://github.com/Anuj-Shelly/edtech-enrollment-analytics-project) | Power BI & Excel project analyzing marketing-to-enrollment funnel performance, CAC, and forecast accuracy for a SaaS EdTech business. | Power BI, Excel, SQL |
 | [Healthcare Operations Reporting](https://github.com/Anuj-Shelly/kein-handicap-healthcare-analytics) | Power BI dashboard for staff utilization, patient satisfaction, average care hours, and visits across care teams at a healthcare services provider. | Power BI, SQL |
-| [Sales Forecasting Model](https://github.com/Anuj-Shelly/edtech-enrollment-analytics-project) | Enrollment / revenue forecasting model with >90% accuracy using growth assumptions and variance tracking. | Excel, Power BI |
+| [Sales Forecasting Model](https://github.com/Anuj-Shelly/sales-forecasting-model) | Enrollment / revenue forecasting model with >90% accuracy using growth assumptions and variance tracking. | Excel, Power BI |
 
 > Dashboards include KPI cards, forecast vs actual, and channel performance breakdowns.
 
