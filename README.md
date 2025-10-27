@@ -24,10 +24,12 @@ That includes funnel analytics (leads → conversion), operational dashboards, C
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Healthcare Operations Reporting](https://github.com/Anuj-Shelly/kein-handicap-healthcare-analytics) | Power BI dashboard for staff utilization, patient satisfaction, average care hours, and visits across care teams at a healthcare services provider. | Power BI, SQL |
-| [Sales Forecasting Model](https://github.com/Anuj-Shelly/sales-forecasting-model) | Enrollment / revenue forecasting model with >90% accuracy using growth assumptions and variance tracking. | Excel, Power BI |
+| [Healthcare Operations Reporting](https://github.com/Anuj-Shelly/kein-handicap-healthcare-analytics) | Power BI dashboard for staff utilization, care hours per patient, patient satisfaction, and visit volume across care teams at a healthcare services provider. Automates weekly reporting and gives management real-time visibility. | Power BI, SQL, Excel |
+| [Sales Forecasting & Enrollment Analytics](https://github.com/Anuj-Shelly/sales-forecasting-model) | Forecasting model for lead → enrollment funnel and revenue trends in an EdTech SaaS context. Tracks CAC, conversion rate, and forecast vs actual performance to support budget and growth planning. | Excel, Power BI |
+| [Exploratory Data Analysis & ML](https://github.com/Anuj-Shelly/EDA-and-ML) | In-depth exploratory data analysis (EDA) and driver identification using Python. Built visuals and early predictive models to understand which factors most influence target outcomes. | Python (pandas, seaborn), ML |
+| [Predictive Analytics / Forecast Modeling](https://github.com/Anuj-Shelly/PredictiveAnalytics) | Built and evaluated machine learning models (classification / regression) to forecast business outcomes. Includes feature engineering, model validation, and performance comparison. | Python (scikit-learn), Modeling |
 
-> Dashboards include KPI cards, forecast vs actual, and channel performance breakdowns.
+> Dashboards include KPI cards, forecast vs actual performance tracking, channel / department breakdowns, and actionable insights for decision-makers.
 
 ---
 
